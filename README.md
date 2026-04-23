@@ -41,7 +41,7 @@ Make sure you have Node.js (v20+ recommended) and npm installed.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
+git clone https://github.com/BCA-452-27952-Rahul/mern-stack-food-delivery-app.git
 cd mern-food-delivery-app
 ```
 
@@ -121,7 +121,7 @@ Use the admin panel to manage orders, menu items.
 
 ## 📸 Screenshots
 # 🏠 Home : 
-![1](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/b3d604f0-ae0e-4e29-9b95-51f6327c3952)
+https://github.com/BCA-452-27952-Rahul/mern-stack-food-delivery-app.git/http://localhost:5173/
 # 🔐 Login : 
 ![2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0cb56d94-a715-48bd-9a7d-05c876a05b2c)
 # 🔐 Signup : 
