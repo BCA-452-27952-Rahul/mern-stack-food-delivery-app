@@ -129,18 +129,11 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 👨‍💻 Contributors
 
-[Dulanjali Senarathna](https://github.com/DulanjaliSenarathna)
+[https://github.com/BCA-452-27952-Rahul/mern-stack-food-delivery-app.git)
  — Project Owner
 
-[prem2621](https://github.com/prem2621)
- — Bug fixes, secure env handling, image display improvement
 
-## 📫 Contact
-For any questions or suggestions, feel free to contact me.
 
-Happy coding!
-
-Feel free to customize this template according to your specific project details and requirements.
 
 
 
